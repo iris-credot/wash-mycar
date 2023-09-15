@@ -1,0 +1,179 @@
+
+* {
+  margin: 0;
+}
+.links {
+    background-color:white;
+    height: 2cm;
+    width: 70%;
+    position: sticky;
+                    left: 0;
+                    top: 0; 
+}
+.logoname {
+    background-color:white;
+    height: 2cm;
+    width: 30%;
+    position: sticky;
+                    left: 0;
+                    top: 0; 
+                 }
+                
+                  .whyus{
+                    height: 2cm;
+                    width: 100%;
+                    background-color: white;
+                    font-size: xx-large;
+                    text-align: center;
+                }
+                a{
+                    text-decoration: none;
+                    color:black;
+                    }
+            .bottom {
+                height: 0.1cm;
+                    width: 100%;
+                    background-color: white;
+                    color: black;
+                    display: flex;
+                               }
+            
+            .bott1 , .bott2 , .bott3 {
+                height:1cm;
+                width: 33%;
+                text-align: center;
+                position: sticky;
+                left: 0;
+                top: 0;
+            }
+            .links a{
+                text-decoration: none;
+                font-size: xx-large;
+                color: black;
+                padding: 25px;
+            } 
+            li a{
+                color: white;
+                
+            }
+            li{
+                color: white;
+                padding: 10px;
+            }
+            .h11 a{
+                color: rgb(241, 65, 65);
+                margin-left: 2cm;
+                font-size: xx-large;
+                
+            }
+            .reach{
+                background-color: rgb(104, 145, 145);
+                height: 17cm;
+                width: 100%;
+                padding: 1cm;
+            }
+            .submit{
+                height: 2cm;
+                width: 20%;
+            border-radius: 6px;
+             margin-left: 1cm;
+             margin-top: 40px;
+            }
+            .second{
+                height: 1.5cm;
+                width: 100%;
+                margin-top: 10px;
+            }
+            .second1{
+            margin-left: 2cm;
+            }
+            .ris{
+                border: 1px solid rgb(28, 27, 27);
+                border-radius: 4px;
+                text-align: center;
+                width: 40rem;
+                height:50px;
+                margin-left: 4cm;
+                margin: 20px;
+                padding: 40px 40px;
+            }
+            .iris{
+                border: 1px solid rgb(28, 27, 27);
+                border-radius: 4px;
+                text-align: center;
+                width: 30rem;
+                height:40px;
+                margin-left: 4cm;
+                margin: 20px;
+                padding: 15px 15px;
+            }
+            .h11 a:hover{
+                color: rgb(167, 234, 211);
+            }
+            li:hover{
+                color: rgb(241, 65, 65);
+            }
+            li a:hover{
+                color: rgb(241, 65, 65);
+            }
+            .links a:hover{
+                color: rgb(241, 65, 65);
+            } 
+            a:active{
+                color: rgb(16, 137, 131); 
+            }
+                .title {
+                    text-align: center;
+                    height: 1.5cm;
+                    width: 100%;
+                    background-color: white;
+                    font-size: larger;
+                    position: sticky;
+                    top:0;
+                    left:0;
+                    border-bottom: 1px solid black;
+                }
+                
+                .name1 , .logo1 , .links1{
+    background-color: rgb(65, 59, 59);
+    height: 8cm;
+    width: 50%;
+                }
+                .upper  , .aboutus , .lower
+                {
+                    display: flex;
+                }
+                
+                .introd {
+                    height: 10cm;
+                    width: 100%;
+                    
+                    background-image: url( "../images/pic2.jpg");
+                    display: flex;
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    background-position:center center;
+                }
+                .A , .B{
+                    height: 10cm;
+                    width: 50%;
+                }
+                 
+                .A1 , .B1 {
+                    height: 13cm;
+                    width: 50%;
+                    
+                
+                }
+                .B1{
+                    padding: 20px;
+                    color:rgb(4, 4, 4);
+                }
+            .chooseus {
+    width: 100%;
+    height: 10cm;
+    background-color: rgb(255, 251, 251);
+    padding: 0px;
+    
+            }
+    
